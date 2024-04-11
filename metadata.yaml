@@ -1,0 +1,45 @@
+_repo: The-quest-of-Iranon_73182
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+creator:
+  author:
+    agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Lovecraft, Howard Phillips
+    - Littlewit, Humphrey
+    - Lovecraft, H.P.
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
+description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Quest_of_Iranon'
+gutenberg_issued: '2024-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73182'
+language: en
+pgterms:marc905: 20240304082456lovecraft
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bWeird Tales, $c1939.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PS'
+- GITenberg
+title: The quest of Iranon
+url: http://www.gutenberg.org/ebooks/73182
